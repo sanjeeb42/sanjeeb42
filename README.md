@@ -10,7 +10,7 @@
   <a href="mailto:raisanjeeb42@gmail.com">
     <img src="https://img.shields.io/badge/Email-raisanjeeb42%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/sanjeeb-kumar-rai-45094218a" target="_blank">
+  <a href="https://www.linkedin.com/in/sanjeeb-kumar-rai-08a02517b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sanjeeb_Rai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/sanjeeb42" target="_blank">
