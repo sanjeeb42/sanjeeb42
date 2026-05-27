@@ -1,4 +1,4 @@
-# Hi there! I'm Sanjeeb Kumar Rai 👋
+# Sanjeeb Kumar Rai
 
 <p align="center">
   <a href="https://github.com/sanjeeb42">
@@ -23,17 +23,17 @@
 
 ---
 
-### 💫 About Me
+## About Me
 
-I am a **Software Engineer at Google** with a strong foundation in building high-concurrency, scalable systems, and resolving complex algorithmic problems. Prior to Google, I contributed to engineering teams at **Amazon**, **Deutsche Bank**, and **Mastercard**.
+I am a **Software Engineer at Google**. Before this, I worked at **Amazon**, **Deutsche Bank**, and **Mastercard**. I enjoy building efficient backend systems, solving algorithmic puzzles, and tweaking mobile tech.
 
-- 🔭 **I’m currently working on**: Large-scale distributed systems and automation tools.
-- ⚡ **Passions**: High-performance scraping, competitive programming, and low-level system design (LLD).
-- 💬 **Ask me about**: Java, C++, Python, System Design (HLD/LLD), and LeetCode contest strategies.
+*   **Currently working on:** Distributed backend infrastructure & personal development utilities.
+*   **Passions:** Custom ROM development, Android modding, traveling, and exploring new places.
+*   **Ask me about:** System Design (LLD/HLD), LeetCode contests, Technical Interviews, Custom ROMs, or travel recommendations!
 
 ---
 
-### 🏢 Professional Journey
+## Experience
 
 ```text
 ┌────────────────────────────────────────────────────────┐
@@ -49,7 +49,7 @@ I am a **Software Engineer at Google** with a strong foundation in building high
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+## Skills
 
 | Category | Technologies |
 | :--- | :--- |
@@ -60,29 +60,20 @@ I am a **Software Engineer at Google** with a strong foundation in building high
 
 ---
 
-### 📂 Highlighted Projects
+## Featured Projects
 
-*   **🕵️‍♂️ [LeetCode Contest Plagiarism Detector](https://github.com/sanjeeb42/LeetCode-Contest-Plagarism-Detector)**
-    *   *React, Python (Flask), Java (JPlag), DSU*
-    *   Scrapes, tokenizes, and maps solution structural similarity using Disjoint Set Union (DSU) to uncover cheating rings. Includes an interactive typing replay analyzer.
+*   **[LeetCode Contest Plagiarism Detector](https://github.com/sanjeeb42/LeetCode-Contest-Plagarism-Detector)** — Scrapes contest submissions and analyzes structural token-level similarity (JPlag) to map plagiarism clusters. *(React, Flask, DSU)*
 
 
 ---
 
-### 📊 GitHub & Competitive Programming Stats
+## Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjeeb42&theme=tokyonight" alt="Sanjeeb's GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjeeb42&theme=tokyonight" alt="Sanjeeb's Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeeb42&theme=tokyonight&hide_border=true" alt="Sanjeeb's Streak Stats" width="97%" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeeb42&theme=tokyonight&hide_border=true" alt="Sanjeeb's Streak Stats" height="195" />
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/sanjeeb42" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/sanjeeb42?theme=dark&font=Fira%20Code" alt="Sanjeeb's LeetCode Card" width="70%" />
+    <img src="https://leetcard.jacoblin.cool/sanjeeb42?theme=dark&font=Fira%20Code" alt="Sanjeeb's LeetCode Card" height="195" />
   </a>
 </p>
 
