@@ -70,7 +70,7 @@ I am a **Software Engineer at Google**. Before this, I worked at **Amazon**, **D
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeeb42&theme=tokyonight&hide_border=true" alt="Sanjeeb's Streak Stats" height="195" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeeb42&theme=tokyonight&hide_border=true" alt="Sanjeeb's Streak Stats" height="195" /> -->
   &nbsp;&nbsp;
   <a href="https://leetcode.com/sanjeeb42" target="_blank">
     <img src="https://leetcard.jacoblin.cool/sanjeeb42?theme=dark&font=Fira%20Code" alt="Sanjeeb's LeetCode Card" height="195" />
